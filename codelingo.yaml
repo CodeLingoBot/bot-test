@@ -1,3 +1,4 @@
 tenets:
 - import: codelingo/jenkinsx/orginterfaces
 - import: codelingo/jenkinsx/parallel-in-tests
+- import: codelingo/psr2/elseif-not-else-if
